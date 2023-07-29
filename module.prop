@@ -3,4 +3,4 @@ name=One-handed mode enabler for Pixel
 version=v1.0
 versionCode=1
 author=Anh Nguyen
-description=Simple module to enable one-handed mode on Google Pixel devices that have the feature disabled (I've only tested this on the Pixel Fold)
+description=Simple Magisk module to enable one-handed mode on Google Pixel devices that have the feature disabled (I've only tested this on the Pixel Fold)
